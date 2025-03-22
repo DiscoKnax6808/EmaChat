@@ -20,5 +20,4 @@
 
 ## Contact
 
-Email: your.email@example.com
-GitHub: [@yourusername](https://github.com/yourusername)
+Email: EmuChatHelp@gmail.com
