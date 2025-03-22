@@ -8,7 +8,7 @@
 
 EmaChat is a simple and enjoyable messaging application, designed to let you connect with your friends in a fun and easy way. Send text messages, share emojis, and have group chats!
 
-![EmaChat Screenshot](link-to-your-screenshot-or-gif)
+![EmuChat Project Image](EMUCHATREADMEPHOTOMAIN.png)
 
 ---
 
